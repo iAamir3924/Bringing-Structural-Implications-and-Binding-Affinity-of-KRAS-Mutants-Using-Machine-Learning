@@ -1,0 +1,15 @@
+Span,100.0
+Step,30.0
+species/time point,0,30.0,60.0,90.0
+KRAS,0.5,,,
+EGFR,0.5,,,
+PI3K,0.5,,,
+TGFb,0.5,,,
+MAPK,0.5,,,
+BRAF/Raf,0.5,,,
+MEK,0.5,,,
+ERK,0.5,,,
+FOS,0.5,,,
+JUN,0.5,,,
+JNK,0.5,,,
+TAK1,0.5,,,
