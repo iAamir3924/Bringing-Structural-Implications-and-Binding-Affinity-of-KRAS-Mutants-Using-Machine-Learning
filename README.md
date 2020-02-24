@@ -27,9 +27,9 @@ The integrase.cv is a huge file and is thus made accessible at https://drive.goo
 In case of any inconvinience, please feel free to reach us at iaamirofficial@gmail.com.
 
 #### Demo
-#### Instruction to execute this Model
+#### Instruction to execute this model
 Run data set (as a demo)  
-Download folder integrase.csv file (availabe at https://drive.google.com/open?id=1-lwMZqWrLVS9UNae7Qoe9VGMJ0HXpZis)  
+Download integrase.csv file (availabe at https://drive.google.com/open?id=1-lwMZqWrLVS9UNae7Qoe9VGMJ0HXpZis)  
 In the Machine Learning Data folder,  
 Run the DML Training script (Python).py  
 Open CMD and input:  
