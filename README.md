@@ -28,13 +28,13 @@ In case of any inconvinience, please feel free to reach us at iaamirofficial@gma
 
 #### Demo
 #### Instruction to execute this Model
-Run data set (as a demo)
-Download folder integrase.csv file (availabe at https://drive.google.com/open?id=1-lwMZqWrLVS9UNae7Qoe9VGMJ0HXpZis)
-In the Machine Learning Data folder,
-Run the DML Training script (Python).py
-Open CMD and input:
-cd .\Machine Learning Data\Your_Folder
-python -u Script.py > Example.out
+Run data set (as a demo)  
+Download folder integrase.csv file (availabe at https://drive.google.com/open?id=1-lwMZqWrLVS9UNae7Qoe9VGMJ0HXpZis)  
+In the Machine Learning Data folder,  
+Run the DML Training script (Python).py  
+Open CMD and input:  
+cd .\Machine Learning Data\Your_Folder  
+python -u Script.py > Example.out  
 
 
 
